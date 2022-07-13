@@ -1,0 +1,33 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-image: url(../../../img/mainPics/pictures/bookdark.jpg);
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    font-family: 'Arima', cursive;
+    text-align: center;
+    /* background-position: right; */
+
+}
+
+h1 {
+    font-size: 60px;
+    color: rgb(175, 139, 92);
+}
+
+h5 {
+    color: rgb(120, 7, 16);
+}
+
+h2 {
+    color: rgb(227, 214, 196);
+}
+
+button {
+    background-color: rgb(255, 190, 136);
+    color: rgb(187, 46, 114);
+    border: 2px rgb(255, 213, 151);
+    border-radius: 50px;
+}
