@@ -1,0 +1,39 @@
+body{background-image: url(../../../img/mainPics/pictures/pinky.jpeg);}
+
+
+
+h1{ font-family: 'Bungee Shade', cursive;
+color: rgb(150, 120, 84);
+margin-left:220px;
+}
+.container{
+    box-sizing: border-box;
+    border: 2px dashed rgb(150, 120, 84);
+    border-radius: 25px;
+    height: 140px;
+    width: 90%;
+    margin: auto;
+    padding:10px  ;
+    
+
+}
+
+input{border-radius: 25px;
+border:rgb(150, 120, 84);}
+
+
+#send-btn{  border-radius: 25px;
+    background-color: rgb(255, 214, 181);
+    border:1px solid hotpink;
+font-size: 15px;
+width: 100px;}
+
+
+#results-btn{
+   
+    border-radius: 25px;
+    background-color: rgb(255, 214, 181);
+    border:1px solid hotpink;
+    font-size: 15px;
+   
+}
