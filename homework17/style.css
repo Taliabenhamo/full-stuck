@@ -1,0 +1,12 @@
+body{
+
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+font-size: 25px;
+background-color: rgb(114, 114, 255);
+}
+
+h1{font-family: 'Elsie Swash Caps', cursive;}
+button{background-color:aquamarine;}
+
