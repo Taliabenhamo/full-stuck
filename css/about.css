@@ -1,0 +1,82 @@
+body {
+  overflow-x: hidden;
+}
+
+.title {
+  padding: 2%;
+  font-family: "Pattaya";
+  font-family: "Henny Penny";
+  font-size: 40px;
+  background-color: #ab61c0;
+  text-align: center;
+align-items: center;
+  /* font-weight: 500; */
+}
+
+.container-about {
+  background-color: #ab61c0;
+  display: flex;
+  padding: 5%;
+}
+
+#Minister {
+  box-shadow: #00000091 9px 3px;
+  border-radius: 100%;
+  height: 100vh;
+ animation-name: fade;
+  animation-duration: 4s;
+
+}
+
+@keyframes fade {
+  from {
+    opacity: 0.4;
+  }
+  to {
+    opacity: 1;
+  }
+} ;
+
+
+
+.img-part {
+  /* width: 50vw; */
+  padding: 2%;
+  margin-left: 10%;
+}
+/* 
+.text-part {
+  width: 50vw;
+} */
+
+#latoya-sen {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  padding: 5%;
+  margin-left: 20%;
+  margin-top: 15%;
+}
+
+.container-info {
+  display: flex;
+  font-size: 30px;
+  background-color: #9ece56;
+  text-align: center;
+  align-content: center;
+  padding: 5%;
+  justify-content: space-between;
+}
+
+.information-mardi {
+  width: 50vw;
+  background-color: #f2cc0f;
+  padding: 2%;
+}
+
+.information-layota {
+  width: 50vw;
+  padding: 2%;
+  background-color: #ab61c0;
+}
+

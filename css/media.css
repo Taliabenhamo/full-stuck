@@ -1,0 +1,124 @@
+body {
+  background-color: #9453a6;
+}
+.title {
+  text-align: center;
+  padding: 2%;
+  font-family: "Pattaya";
+  font-family: "Henny Penny";
+}
+.utube {
+  margin-left: 5%;
+  padding: 2%;
+}
+.video {
+  margin: auto;
+}
+
+.pic {
+  margin-left: 5%;
+}
+
+.images {
+  padding: 1%;
+}
+
+.img {
+  height: 50vh;
+  width: 30vw;
+  animation-name:img;
+  animation-duration: 2s; 
+ transition-timing-function:7s;
+
+ 
+}
+
+
+
+
+@keyframes img {
+  from {
+   filter:grayscale(100%);
+  }
+  to {
+    filter:grayscale(0%)
+  }
+} ;
+
+
+.third-section {
+  justify-items: space-between;
+  display: flex;
+  background-color: white;
+}
+
+.wraper {
+  margin: auto;
+  padding: 2%;
+
+}
+
+#girl-carnaval {
+  height: 40vh;
+  width: 20vw;
+  border-radius: 4px 8px;
+  /* opacity: 75%; */
+  box-shadow: #e483ff 3px 3px;
+}
+
+#girl-carnaval:hover {
+  transform: scale(1.1);
+  transition: all 1.3s;
+}
+
+#twogirlspic {
+  height: 40vh;
+  width: 20vw;
+  border-radius: 4px 8px;
+  /* opacity: 75%; */
+  box-shadow: #bfff5ea9 3px 3px;
+}
+
+#twogirlspic:hover {
+  transform: scale(1.1);
+  transition: all 1.3s;
+}
+
+#party {
+  height: 40vh;
+  width: 20vw;
+  border-radius: 4px 8px;
+  box-shadow: #ffe250a6 3px 3px;
+  /* opacity: 75%; */
+}
+
+#party:hover {
+  transform: scale(1.1);
+  transition: all 1.3s;
+}
+
+#crazy {
+  height: 40vh;
+  width: 20vw;
+  border-radius: 4px 8px;
+  /* opacity: 75%; */
+  box-shadow: hsla(0, 0%, 95%, 0.659) 3px 3px;
+}
+
+#crazy:hover {
+  transform: scale(1.1);
+  transition: all 1.3s;
+}
+.images{
+
+  background-color:#f2cc0f
+ ;
+}
+.pic1{
+  justify-content: space-between;
+  margin-left:40px;
+}
+.pic2{
+  padding: 1%;
+  margin-left:100px;
+}

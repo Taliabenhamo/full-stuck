@@ -1,0 +1,52 @@
+.accordion-item {
+  text-align: center;
+}
+
+.quiz {
+  height: 50vh;
+  background-color: yellow;
+}
+
+.title {
+  padding: 2%;
+  text-align: center;
+  font-family: "Pattaya";
+  font-family: "Henny Penny";
+}
+
+.accordion {
+  text-align: center;
+}
+
+#panelsStayOpen-collapseOne {
+  background-color: rgb(41, 174, 50);
+}
+#panelsStayOpen-collapseTwo {
+  background-color: rgb(255, 240, 78);
+}
+
+#panelsStayOpen-collapseThree {
+  background-color: rgb(127, 34, 116);
+}
+
+.accordion-item {
+  background-color: black;
+}
+
+.accordion {
+  padding: 5%;
+}
+
+.container-quiz {
+  padding: 5%;
+  text-align: center;
+}
+
+#submit {
+padding: 1%;
+  font-size: 30px;
+  color: plum;
+  background-color: blueviolet;
+  border-radius: 100%;
+  box-shadow: rgba(0, 0, 0, 0.452) 3px 5px;
+}

@@ -1,0 +1,21 @@
+.container {
+  align-items: center;
+  text-align: center;
+  padding: 2%;
+}
+
+#submit {
+  
+  font-size: 20px;
+  height:40px;
+  width: 15%;
+  color: plum;
+  background-color: blueviolet;
+  border-radius: 100%;
+}
+
+#quiz{
+  margin: auto;
+  width: 50%;
+  
+}
