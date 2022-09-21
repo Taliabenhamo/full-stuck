@@ -1,0 +1,40 @@
+
+
+
+body{
+  background-color: green;
+}
+
+
+.accordion-item {
+  text-align: center;
+}
+
+
+.title {
+  padding: 2%;
+  text-align: center;
+  font-family: "Pattaya";
+  font-family: "Henny Penny";
+}
+
+.accordion {
+  text-align: center;  
+  padding: 5%;
+}
+
+.container-quiz {
+  padding: 5%;
+  text-align: center;
+}
+
+#submit {
+  margin-top: 10px;
+  padding-right: 2%;
+  padding-left: 2%;
+  font-size: 30px;
+  color: plum;
+  background-color: blueviolet;
+  border-radius: 100%;
+  box-shadow: rgba(0, 0, 0, 0.452) 3px 5px;
+}

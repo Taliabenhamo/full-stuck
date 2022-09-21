@@ -1,0 +1,55 @@
+body {
+  background-color: rgb(144, 33, 255);
+}
+.title {
+  text-align: center;
+  padding: 2%;
+  font-family: "Pattaya";
+  font-family: "Henny Penny";
+}
+.youtube-part {
+  padding: 5% 5%;
+}
+
+.img {
+  padding: 2% 2%;
+  height: 50vh;
+  width: 30vw;
+  animation-name: img;
+  animation-duration: 2s;
+  transition-timing-function: 7s;
+}
+
+@keyframes img {
+  from {
+    filter: grayscale(100%);
+  }
+  to {
+    filter: grayscale(0%);
+  }
+}
+
+.carnaval {
+  height: 40vh;
+  width: 20vw;
+  border-radius: 4px 8px;
+  box-shadow: #e483ff 3px 3px;
+}
+
+.carnaval:hover {
+  transform: scale(1.1);
+  transition: all 1.3s;
+}
+
+.images-coul1 {
+  margin-left: 10%;
+  padding: 0 2%;
+  display: flex;
+  flex-direction: row;
+}
+
+.images-coul2 {
+  margin-left: 5%;
+  display: flex;
+  flex-direction: row;
+}
